@@ -11,7 +11,7 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 ```
-
+REST API 테스트 하기
 * 전체목록조회 GET http://localhost:8000/blog/posts
 * 1개 조회 GET http://localhost:8000/blog/posts/1
 * 등록 POST http://localhost:8000/blog/posts/  ( / 슬래쉬 꼭 )
